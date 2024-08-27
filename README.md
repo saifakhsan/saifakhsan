@@ -4,7 +4,7 @@
 
 # Hello, guys! <img src="https://raw.githubusercontent.com/saifakhsan/saifakhsan/master/wave.gif" width="30px" height="30px" />
 
-My name is Saif Akhsan and I'm a software/web developer. I'm from Indonesia, living in Pangandaran.
+My name is Saif Akhsan and I'm a software/web engineer. I'm from Indonesia, living in Pangandaran.
 
 ## &#x1f4c8; GitHub Stats
 
