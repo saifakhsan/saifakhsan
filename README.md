@@ -6,7 +6,7 @@
 
 # Hello, guys! <img src="https://raw.githubusercontent.com/saifakhsan/saifakhsan/master/wave.gif" width="30px" height="30px" />
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="500"  /></p>
 
 My name is Saif Akhsan and I'm a software/web engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I'm from Indonesia, living in Pangandaran.
 
